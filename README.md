@@ -1,7 +1,7 @@
 # Opportunities-you-and-everything-in-between
 ## 11 Jan 2020 - Event at Google Gurgaon
 
-|      Speaker      | Title of Talk | Link to Slides |
+|      Speaker      |      Title of Talk      | Link to Slides |
 |---------|---------------|----------------|
 | Mansi | WWCD- Introduction | https://drive.google.com/open?id=1MLQMBUFHTw4UzYffdykFQjWiSbo-l7GRVzTASHY1nNQ |
 | Pallavi, Jap | Mentorship Program-2 | https://drive.google.com/open?id=1CWVIM3riW0Rsew1gA2tj0UCrpw78ZygYVVxOjWvxIYw |
